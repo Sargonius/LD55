@@ -60,10 +60,6 @@
 			]
 		},
 		{
-			"Name": "CableComponent",
-			"Enabled": false
-		},
-		{
 			"Name": "ChaosClothEditor",
 			"Enabled": false
 		},

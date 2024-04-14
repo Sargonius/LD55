@@ -168,10 +168,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "Text3D",
-			"Enabled": true
-		},
-		{
 			"Name": "WindowsMoviePlayer",
 			"Enabled": false
 		},
@@ -188,6 +184,54 @@
 		},
 		{
 			"Name": "XGEController",
+			"Enabled": false
+		},
+		{
+			"Name": "N10XSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "AvfMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "EnvironmentQueryEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "InputDebugging",
+			"Enabled": false
+		},
+		{
+			"Name": "IOSDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "MediaPlayerEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "Metasound",
+			"Enabled": false
+		},
+		{
+			"Name": "OpenImageDenoise",
+			"Enabled": false
+		},
+		{
+			"Name": "WebMMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "UdpMessaging",
+			"Enabled": false
+		},
+		{
+			"Name": "RiderLink",
 			"Enabled": false
 		}
 	]
